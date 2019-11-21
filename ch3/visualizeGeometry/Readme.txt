@@ -1,6 +1,6 @@
 1. How to compile this program:
 
-* use pangolin: slambook/3rdpart/Pangolin or download it from github: https://github.com/stevenlovegrove/Pangolin
+* use pangolin: slambook/3rdpart/Pangolin or download it from github: https://github.com/stevenlovegrove/Pangolin or https://github.com/zzx2GH/Pangolin.git
 
 * install dependency for pangolin (mainly the OpenGL): 
 sudo apt-get install libglew-dev
